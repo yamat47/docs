@@ -21,6 +21,8 @@ O# IBB
 * ファンブルしたボールを取りに行くためにするのは OK
 * 横から押すのは OK（BSB 気をつけてね）
 
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/illegal-block-above-the-waist/
+
 O# Holding
 ---
 
@@ -30,6 +32,8 @@ O# Holding
   でも審判から見えないので...
   相手をコントロールできている間は OK。
 
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/offensive-holding/
+
 O# Blind Side Block
 ---
 
@@ -38,12 +42,16 @@ O# Blind Side Block
 * ライン戦は適用外（トラップブロックは OK）
 * 肩から行かず、手を使ってブロックしましょ
 
+参考: https://youtu.be/pPCXL3cP-vg
+
 O# Chop Block
 ---
 
 * ハイ/ローの組み合わせでブロックするのは NG
 * 時間が空いてもアウトなのに注意
 * OL はコンボブロックで寝ブロに行くときは、隣の人と絶対に揃えていきましょ
+
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/chop-block/
 
 O# Intentional Grounding
 ---
@@ -52,6 +60,8 @@ O# Intentional Grounding
 * 誰かいれば OK（結構判定は甘い）
 * タックルボックスの外に出た後なら、LOS を超えて投げ捨てるのは OK
 
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/intentional-grounding/
+
 D# Holding
 ---
 
@@ -59,11 +69,15 @@ D# Holding
 * よくあるのは「レシーバーの動きを邪魔する」「ブリッツのための穴を空けるために DL を引っ張る」
 * 1st ダウンを相手に献上するのでやめよう
 
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/defensive-holding/
+
 D# Facemask
 ---
 
 * フェイスガードを掴んで相手を妨害するのは NG
 * （厳密に言えば、掴むだけはセーフ）
+
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/facemask/
 
 D# Roughing the Passer
 ---
@@ -71,6 +85,8 @@ D# Roughing the Passer
 * パスを投げたあとの QB にタックルするのは NG
 * かなり判定は厳しい（QB に有利）
 * 投げる前でも、膝から下に行くのは NG
+
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/roughing-the-passer/
 
 D# Targeting
 ---
@@ -83,11 +99,15 @@ D# Targeting
   * 「パスキャッチ直後のレシーバー」
   * 「相手に捕まって前進を止めたボールキャリアー」
 
+参考: https://youtu.be/7BWdKYT_Fzk
+
 D# Horse Collar
 ---
 
 * ショルダーパッドの内側や、ジャージの背番号より上の部分を掴んで、地面に引き倒すのは NG
 * タックルボックスのなかのランナーとか、ポケットの中のパサーにするのは OK
+
+参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/horse-collar/
 
 OPI / DPI
 ---
@@ -113,3 +133,6 @@ OPI / DPI
   * パス前はむしろヒットする
   * ボールに対してプレーする
   * バンプはしてもよい
+
+OPI 参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/offensive-pass-interference/
+DPI 参考: https://operations.nfl.com/the-rules/nfl-video-rulebook/defensive-pass-interference/
